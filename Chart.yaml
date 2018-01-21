@@ -1,6 +1,6 @@
 name: private-helm
 description: Deploy a basic Alpine Linux pod
-version: 0.1.0
+version: 0.1.1
 home: https://github.com/kubernetes/helm
 sources:
   - https://github.com/kubernetes/helm
