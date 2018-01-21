@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  private_helm:
+  - appVersion: "3.3"
+    created: 2018-01-21T15:50:30.176871183+02:00
+    description: Deploy a basic Alpine Linux pod
+    digest: 0104ac4929314ed0fb2f1b14523eb3fd2df155efa5109f687cd823ad26be1ec5
+    home: https://github.com/kubernetes/helm
+    name: private_helm
+    sources:
+    - https://github.com/kubernetes/helm
+    urls:
+    - private_helm-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-01-21T15:50:30.176253263+02:00
